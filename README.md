@@ -1,4 +1,4 @@
-Executive Summary
+
 This project delivers an end-to-end analytical solution designed to evaluate sales performance, customer retention, 
 profitability margins, and logistics efficiency for a global retail enterprise. By bridging relational database design
 with interactive dashboard visualization, the goal is to transform raw operational data into actionable business intelligence.
